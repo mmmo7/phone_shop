@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# dotenv
+.env
+.env.*
+
+# Flask instance folder
+instance/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite3
+
+# Celery
+celerybeat-schedule
+
+# Sphinx
+docs/_build/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+dist/
+build/
+
+# Unit test / coverage
+.cache
+
