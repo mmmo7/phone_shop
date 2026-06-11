@@ -20,3 +20,4 @@ python main.py
 - `db.json` — каталог товаров (уже в репозитории)
 - `orders.json` — сохранённые заказы
 # phone_shop
+првиет
