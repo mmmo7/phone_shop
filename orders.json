@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 6,
+    "user_id": 1032766616,
+    "user_name": "Мирсаид",
+    "phone": "+998971452644",
+    "address": "fthfg",
+    "items": [
+      {
+        "brand": "Apple",
+        "model_id": "20",
+        "color": "Красный",
+        "name": "Apple iPhone 8 Plus",
+        "price": 6199.9,
+        "quantity": 1
+      }
+    ],
+    "total": 6199.9,
+    "status": "new",
+    "created_at": 1781671848
+  }
+]
